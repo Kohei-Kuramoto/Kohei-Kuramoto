@@ -2,7 +2,7 @@
 I am third-year information technology student majoring in Software Development at Monash University, pattionate about exploring realms of coding and building softwares
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kohei-kuramoto/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kohey0428@gmail.com) 
 
 # 💻 Tech Stack:

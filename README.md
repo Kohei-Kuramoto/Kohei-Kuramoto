@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am third-year information technology student majoring in Software Development at Monash University, pattionate about exploring realms of coding and building softwares
+I am fourth-year information technology student majoring in Software Development at Monash University, pattionate about exploring realms of coding and building softwares
 
 ## 🚀 What I'm Up To
 
